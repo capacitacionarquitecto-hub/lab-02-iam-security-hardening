@@ -2,7 +2,7 @@
 set -e
 source ./scripts/env-vars.sh
 
-echo "👥 Creando grupos y roles IAM..."
+echo "👥 Creating IAM groups and roles..."
 
 # ─── GRUPO: DEVELOPERS ────────────────────────────────────────────
 
